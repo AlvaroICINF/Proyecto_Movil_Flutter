@@ -1,0 +1,1 @@
+ C:\\ALVARO\\TecWM\\ProyectoMovil_Flutter\\proyecto_iddp\\proyecto_iddp\\.dart_tool\\flutter_build\\3d64e2018289e1a52faac634fd9db8a5\\native_assets.yaml: 
